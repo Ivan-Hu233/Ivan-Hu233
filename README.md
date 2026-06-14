@@ -1,6 +1,6 @@
 ## Hello！👋
 
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=windflag-studio)
+![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-Hu233)
 
 ## 我
 
@@ -18,7 +18,7 @@
 
 ## 最后——
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/windflag-studio/windflag-studio/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ivan-Hu233/Ivan-Hu233/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/windflag-studio/windflag-studio/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/windflag-studio/windflag-studio/output/github-contribution-grid-snake.svg">
 </picture>
