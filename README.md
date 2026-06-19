@@ -14,7 +14,7 @@
   ![Static Badge](https://img.shields.io/badge/Linux-gray?style=flat&logo=linux&logoColor=%23FCC624)
   ![Static Badge](https://img.shields.io/badge/Arch!!!-gray?style=flat&logo=archlinux&logoColor=%231793D1)(I use Arch btw.)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windflag-studio)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Hu233)
 
 ## 最后——
 <picture>
