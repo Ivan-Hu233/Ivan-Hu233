@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivan-hu233&label=Profile%20views&color=0e75b6&style=flat" alt="ivan-hu233" /> </p>
 
-- 🔭 我正在努力开发 [Mindrizzle](https://github.com/Ivan-Hu233/Mindrizzle)
+- 🔭 我正在努力开发 [Mindrizzle](https://github.com/LogicAurora/Mindrizzle)
 
 - 🌱 我在学习 **Rust Vue.js**
 
